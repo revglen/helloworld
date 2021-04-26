@@ -1,0 +1,8 @@
+git init
+git status
+git add .
+git status
+git commit -m "added new code"
+git status
+git remote add origin https://github.com/revglen/helloworld.git
+git push -u origin master
